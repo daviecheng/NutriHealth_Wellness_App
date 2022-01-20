@@ -7,6 +7,8 @@
 Group Members:
 Tirth Darji, David Cheng, Dev Patel, Parita Navadiya, Smit Purohit
 
+Role: Front-end - Designed dashboard and home page using HTML, CSS, JS, and Bootstrap 5
+
 ## Dashboard Screenshot
 <img src="https://user-images.githubusercontent.com/84931559/150241656-5dddf32f-2e51-48a9-bda0-fcf6ca897394.JPG">
 
